@@ -1,0 +1,50 @@
+#dd{
+    height: 900px;
+    display: flex;
+    flex-direction: column;
+    
+    background-color: #f7f3fb;
+   
+}
+#dd1{
+    height: 280px;
+    
+    padding: 40px 420px;
+    box-sizing: border-box;
+    text-align: center;
+    font: 20px sans-serif;
+    
+}
+#dd1 p{
+    padding: 0px 80px;
+    box-sizing:border-box;
+  
+}
+
+#dd2{
+    height: 280px;
+    display: flex;
+    justify-content: center;
+   
+}
+.ddd{
+    width: 400px;
+    height: 260px;
+    font: 15px sans-serif;
+    padding: 30px;
+    box-sizing:border-box;
+
+}
+
+
+.ddd img{
+    display: inline;
+   
+}
+.ddd h1{
+    display: inline;
+}
+
+#dimg{
+    margin: 0 auto;
+}
