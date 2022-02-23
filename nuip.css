@@ -6,6 +6,60 @@
     background-color: #f7f3fb;
    
 }
+#zag{
+	background: #DBF1FC;
+	height: 800px;
+}
+body{
+	margin:0;
+	font-family: Salesforce Sans Web,sans-serif;
+}
+#z1{
+	height: 100px;
+	text-align: right;
+	padding: 25px;
+	box-sizing: border-box;
+}
+
+#z1 a{
+	font-size: 22px;
+	margin: 0 10px;
+	color:#3D3D3D;
+}
+#z1 img{
+	position: absolute;
+	left: 160px;
+	top:20px;
+}
+#z2{
+	position: relative;
+	left: 160px;
+	top:100px;
+	width:500px;
+	display: inline-block;
+	font-size: 22px;
+	color: #3D3D3D;
+}
+#z2 a{
+	display:block;
+	background: #00A1E0;
+	width: 180px;
+	height: 40px;
+	font-size: 15px;
+	color: white;
+	text-align: center;
+	padding: 8px;
+	box-sizing: border-box;
+}
+#z2 a:hover{ opacity:70%; }
+#z3{ 
+	position: absolute;
+	display: inline;
+	left: 750px;
+	top: 170px
+ }
+
+
 #dd1{
     height: 280px;
     
